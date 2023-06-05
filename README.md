@@ -1,8 +1,8 @@
-# Stock Exchange Simulator
+# Stock Market Simulator
 
 ## Introduction
 
-This is a simulator of the stock exchange system, developed as one of the final projects of **Advanced Programming** (**Spring 2023**) course at **Iran University of Science and Technology**. The architecture of the project is based on the [project description](description.pdf) provided by teaching assistants.
+This is a simulator of the stock market system, developed as one of the final projects of **Advanced Programming** (**Spring 2023**) course at **Iran University of Science and Technology**. The architecture of the project is based on the [project description](description.pdf) provided by teaching assistants.
 
 ## Developers
 
